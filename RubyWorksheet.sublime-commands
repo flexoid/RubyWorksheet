@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "Ruby Worksheet: Execute",
+		"command": "ruby_worksheet_execute"
+	}
+]
